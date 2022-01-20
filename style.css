@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-image: linear-gradient( to bottom, aliceblue , violet);
+	font-family: 'Indie Flower', cursive;
+}
+h1 {
+    font-size: 40px;
+}
+#contact_1{
+    background-color: blue;
+}
+#contact_1 h3
+{
+    display: inline;
+}
+#contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
